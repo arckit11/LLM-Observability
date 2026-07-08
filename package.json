@@ -1,0 +1,8 @@
+{
+  "name": "llm-observability-platform",
+  "private": true,
+  "scripts": {
+    "build": "cd dashboard && npm ci && npm run build",
+    "start": "cd dashboard && npm run start"
+  }
+}
